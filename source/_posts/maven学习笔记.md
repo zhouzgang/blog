@@ -64,11 +64,13 @@ Maven内置变量说明：
 2. Jar 包下载失败解决办法，可能是因为下载jar包中断导致本地仓库有不完整jar包。先删除jar包，重新下载。
 
 学习网址：
-1. (orcale的maven教程) http://www.oracle.com/technetwork/cn/community/java/apache-maven-getting-started-1-406235-zhs.html
-2. (Maven 资源配置文件) http://www.cnblogs.com/pixy/p/4798089.html
-3. (Maven 常用插件) http://www.cnblogs.com/pixy/p/4977550.html
-4. (springBoot Maven插件的作用) http://www.cnblogs.com/acm-bingzi/p/mavenSpringBootPlugin.html http://www.voidcn.com/article/p-krttmics-brm.html
-5. （Jar下载失败解决办法）http://blog.csdn.net/captian_900331/article/details/50897831
+1. [orcale的maven教程](http://www.oracle.com/technetwork/cn/community/java/apache-maven-getting-started-1-406235-zhs.html)
+2. [Maven 资源配置文件](http://www.cnblogs.com/pixy/p/4798089.html)
+3. [Maven 常用插件](http://www.cnblogs.com/pixy/p/4977550.html)
+4. [springBoot Maven插件的作用](http://www.cnblogs.com/acm-bingzi/p/mavenSpringBootPlugin.html)
+5. [Maven插件](http://www.voidcn.com/article/p-krttmics-brm.html)
+6. [Jar下载失败解决办法](http://blog.csdn.net/captian_900331/article/details/50897831)
+
 参考知识点：
 1. Artifact 的词源是拉丁语 arte(艺术) + factum(做、造)，翻译为「（手）工艺品」
 
